@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.soft {
+    color: white;
+}
+div {
+    color: white;
+}
+.tick {
+    color: white;
+}
+h2{
+    font-size: 30px;
+}
+h2 {
+    color:rgb(89, 0, 255)
+}
+h3 {
+    font-size: 30px;
+}
+h3 {
+    color: pink;
+}
+div h2 {
+    color: yellow;
+}
+.valo {
+    color: white;
+}
+.amazon {
+    color: white;
+}
+.music {
+    width: 500px;
+    border: 10px solid yellow;
+    padding: 10px;
+    margin: 50px;
+    background-color: aquamarine;
+}
+h4 {
+    font-size: 30px;
+}
+h4 {
+    color:green;
+}
